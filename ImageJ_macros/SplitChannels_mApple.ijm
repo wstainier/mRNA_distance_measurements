@@ -1,3 +1,6 @@
+// This macro allows you to split the channels of all the .czi files in a directory, rename the image of each channel, and save it in a designated output directory. 
+// Change the function starting at line 28 as needed for your own purposes.
+
 //@ File (label = "Input directory", style = "directory") input
 //@ File (label = "Output directory", style = "directory") output
 //@ String (label = "File suffix", value = ".czi") suffix
