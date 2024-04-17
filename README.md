@@ -1,4 +1,4 @@
-# Ilastik-based 3D Granule Measurement Instructions
+# Ilastik-based 3D Granule Measurement 
 
 This repository details the code used to analyze the distance of mRNA and SunTag foci to the surface of _Drosophila_ germ granules, as used in the following project: INSERT DOI HERE.
 
